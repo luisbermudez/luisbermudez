@@ -1,6 +1,6 @@
 # Hi there! This is Luis. 👋
 
-I’m currently studying Full-Stack MERN Web Development at Ironhack. <br> I am also learning C with the Harvard CS50x course.
+Full-Stack MERN Web Development certified at Ironhack. <br> Currently learning C with Harvard CS50x.
 
 🧑‍💻 My Linkedin [Luis Bermudez](https://www.linkedin.com/in/luis-berm%C3%BAdez-84223b184/)
 <!---
