@@ -2,7 +2,7 @@
 
 ### Full Stack Web Developer - MongoDB • Express • React • Node.js
 
-My [Linkedin](https://www.linkedin.com/in/luis-bermúdez/)
+My [Linkedin](https://www.linkedin.com/in/luis-perezbermudez/)
 <br>
 E-mail: lapbermudez@gmail.com
 
